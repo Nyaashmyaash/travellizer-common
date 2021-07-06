@@ -1,13 +1,14 @@
 package com.nyash.travellizer.travellizercommon.model.transform.impl;
 
-import com.nyash.travellizer.common.infra.cdi.Cached;
-import com.nyash.travellizer.common.infra.cdi.DBSource;
-import com.nyash.travellizer.common.infra.exception.ConfigurationException;
-import com.nyash.travellizer.common.infra.util.ReflectionUtil;
-import com.nyash.travellizer.common.model.entity.base.AbstractEntity;
-import com.nyash.travellizer.common.model.entity.loader.EntityLoader;
-import com.nyash.travellizer.common.model.transform.TransformableProvider;
-import com.nyash.travellizer.common.model.transform.Transformer;
+
+import com.nyash.travellizer.travellizercommon.infra.cdi.Cached;
+import com.nyash.travellizer.travellizercommon.infra.cdi.DBSource;
+import com.nyash.travellizer.travellizercommon.infra.exception.ConfigurationException;
+import com.nyash.travellizer.travellizercommon.infra.util.ReflectionUtil;
+import com.nyash.travellizer.travellizercommon.model.entity.base.AbstractEntity;
+import com.nyash.travellizer.travellizercommon.model.entity.loader.EntityLoader;
+import com.nyash.travellizer.travellizercommon.model.transform.TransformableProvider;
+import com.nyash.travellizer.travellizercommon.model.transform.Transformer;
 
 import java.lang.reflect.Field;
 import java.util.Map;

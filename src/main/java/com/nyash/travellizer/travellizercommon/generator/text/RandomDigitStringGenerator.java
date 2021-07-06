@@ -4,6 +4,7 @@ package com.nyash.travellizer.travellizercommon.generator.text;
 
 import com.nyash.travellizer.travellizercommon.generator.NumberGenerator;
 import com.nyash.travellizer.travellizercommon.generator.RandomNumberGenerator;
+import com.nyash.travellizer.travellizercommon.infra.util.Checks;
 
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;

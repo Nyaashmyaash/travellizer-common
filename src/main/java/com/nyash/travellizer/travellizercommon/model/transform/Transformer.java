@@ -1,8 +1,8 @@
 package com.nyash.travellizer.travellizercommon.model.transform;
 
-import com.nyash.travellizer.common.infra.exception.flow.ValidationException;
-import com.nyash.travellizer.common.infra.util.Checks;
-import com.nyash.travellizer.common.infra.util.ReflectionUtil;
+import com.nyash.travellizer.travellizercommon.infra.exception.flow.ValidationException;
+import com.nyash.travellizer.travellizercommon.infra.util.Checks;
+import com.nyash.travellizer.travellizercommon.infra.util.ReflectionUtil;
 
 import java.util.List;
 import java.util.stream.Collectors;

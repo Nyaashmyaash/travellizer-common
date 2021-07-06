@@ -1,6 +1,7 @@
 package com.nyash.travellizer.travellizercommon.model.transform.impl;
 
-import com.nyash.travellizer.common.infra.util.ReflectionUtil;
+
+import com.nyash.travellizer.travellizercommon.infra.util.ReflectionUtil;
 
 import java.lang.reflect.Field;
 import java.util.List;

@@ -1,7 +1,7 @@
 package com.nyash.travellizer.travellizercommon.model.range;
 
 
-import com.nyash.travellizer.common.infra.util.Checks;
+import com.nyash.travellizer.travellizercommon.infra.util.Checks;
 import lombok.Getter;
 
 /**
