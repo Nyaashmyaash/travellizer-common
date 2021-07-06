@@ -1,6 +1,7 @@
 package com.nyash.travellizer.travellizercommon.infra.util;
 
 import com.nyash.travellizer.travellizercommon.infra.exception.ConfigurationException;
+import com.nyash.travellizer.travellizercommon.infra.util.annotations.Ignore;
 import com.nyash.travellizer.travellizercommon.model.transform.mapper.*;
 import io.micrometer.core.instrument.util.StringUtils;
 
