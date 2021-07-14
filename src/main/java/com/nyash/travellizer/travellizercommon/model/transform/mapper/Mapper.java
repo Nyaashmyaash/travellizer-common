@@ -19,7 +19,7 @@ public interface Mapper<T , V> {
 
     /**
      * Transforms source field value based on the type of the destination object
-     * @param srcValue
+     * @param sourceValue
      * @param destinationType
      * @return
      */
